@@ -499,6 +499,7 @@ html,body {
     width: 100%; height: auto;
     position: relative;
     overflow: visible;
+    background: white;
 }
 
 .End_main_content {
